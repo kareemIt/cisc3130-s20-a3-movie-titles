@@ -1,11 +1,12 @@
 # cisc3130-s20-a3-movie-titles
 # Movie Titles 
-Movie Titles takes in a bunch of movies and puts them into a tree at which can be search through for titles and the year it was released by Kareem Itani
+Movie Titles takes in a bunch of movie genres, years that movie were released.Then it is put into a map at which can be search through for years and the genre. by Kareem Itani
 ##
 # Dependency 
 java 8
 ##
 # Assigment Questions
-1. Take a CSV file and then parse it for just the movie title and year.
-2. Take the information then put it into a binary tree.
-3. Be able to go through the tree to find movies between two titles provided. 
+1. How many movies are classified under each genre? 
+2.How many for the whole data set versus the most recent 5 years?
+3.Parse out the release year for each movie.
+4.How many movies of each genre came out each year?
